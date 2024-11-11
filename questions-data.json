@@ -1,0 +1,94 @@
+{
+    "Dalen1": [
+        {
+            "month": 1,
+            "date": 1,
+            "question": "Pa raglen gafodd ei darlledu am y tro cyntaf ar y diwrnod yma ym 1967?",
+            "option 1": "Match Of The Day",
+            "option 2": "Top Of The Pops",
+            "option 3": "The Archers",
+            "correct": "option 2",
+            "explanation": "I Only Want To Be With You' gan Dusty Springfield oedd cân gyntaf y rhaglen."
+        },
+        {
+            "month": 1,
+            "date": 1,
+            "question": "Pa dîm pel-droed wnaeth drechu QPR ar y diwrnod yma llynedd?",
+            "option 1": "Wrecsam",
+            "option 2": "Y Bala",
+            "option 3": "Caerdydd",
+            "correct": "option 3",
+            "explanation": "2-1 oedd y sgor."
+        },
+        {
+            "month": 1,
+            "date": 1,
+            "question": "Pwy gannodd yng ngharchar San Quentin ar y dyddiad yma ym 1960?",
+            "option 1": "Jonny Cash",
+            "option 2": "Elvis Presley",
+            "option 3": "Dolly Parton",
+            "correct": "option 1",
+            "explanation": "Hon oedd y cyntaf mewn cyfres o berfformiadau chwedlonol."
+        },
+        {
+            "month": 1,
+            "date": 2,
+            "question": "Cafodd The Flying Dutcham ei pherfformio'n gyheoddus am y tro cyntaf ar y diwrnod yma ym 1843. Pwy wnaeth gyfansoddi'r Opera?",
+            "option 1": "Richard Wagner",
+            "option 2": "Mozart",
+            "option 3": "Francesca Caccini",
+            "correct": "option 1",
+            "explanation": "Cafodd ei perfformio am y tro cyntaf yn Dresden yn yr Almaen."
+        },
+        {
+            "month": 1,
+            "date": 2,
+            "question": "Pa Gadeirlan yng Nghymru cafodd ei difrodi ar y diwrnod yma ym 1941?",
+            "option 1": "Ty Ddewi",
+            "option 2": "Llandaf",
+            "option 3": "Bangor",
+            "correct": "option 2",
+            "explanation": "Bu farw 165 o bobl yn ystod yr ymosodiad ar Gaerdydd."
+        },
+        {
+            "month": 1,
+            "date": 2,
+            "question": "Pwy sy'n dathlu pen-blwydd heddiw?",
+            "option 1": "Keir Starmer",
+            "option 2": "Eluned Morgan",
+            "option 3": "Kemi Badenoch",
+            "correct": "option 3",
+            "explanation": "Arweinydd y Blaid Geidwadol yn 45 heddiw."
+        },
+        {
+            "month": 1,
+            "date": 3,
+            "question": "Beth ddigwyddodd ar y diwrnod yma ym 1977?",
+            "option 1": "Radio Cymru yn dechrau",
+            "option 2": "S4C yn dechrau",
+            "option 3": "Cymru yn ennill y gamp lawn",
+            "correct": "option 1",
+            "explanation": "Helo Bobol gyda Hywel Gwynfryn oedd y rhaglen gyntaf."
+        },
+        {
+            "month": 1,
+            "date": 3,
+            "question": "Ganed J R R Toklien ar y dydd yma yn 1892. Pa actor Cymreig yma sydd heb ymddangos yn y gyres deledu Lord Of The Rings?",
+            "option 1": "Owain Arthur",
+            "option 2": "John Ogwen",
+            "option 3": "Morfydd Clarke",
+            "correct": "option 2",
+            "explanation": "Mae sawl actor o Gymru yn aelodau o gast Lord Of The Rings."
+        },
+        {
+            "month": 1,
+            "date": 3,
+            "question": "Pwy sy'n dathlu pen-blwydd heddiw?",
+            "option 1": "Greta Thunberg",
+            "option 2": "Adele",
+            "option 3": "Gareth Bale",
+            "correct": "option 1",
+            "explanation": "Mae'r ymgyrchydd amgylcheddol yn 23 heddiw."
+        }
+    ]
+}

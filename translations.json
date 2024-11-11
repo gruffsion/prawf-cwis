@@ -1,0 +1,26 @@
+{
+    "en": {
+        "quizTitle": "On This Day Quiz",
+        "noQuizAvailable": "No quiz available for this date. Select 1, 2 or 3 January 2025 to test.",
+        "quizCompleted": "Quiz Completed!",
+        "yourScore": "Your Score: ${correctAnswers} out of ${totalQuestions}",
+        "selectDate": "Select date:",
+        "nextQuestion": "Next",
+        "correctAnswer": "Correct!",
+        "incorrectAnswer": "Incorrect",
+        "explanation": "Explanation:",
+        "seeScore": "View Score"
+    },
+    "cy": {
+        "quizTitle": "Cwis Heddiw Mewn Hanes",
+        "noQuizAvailable": "Dim cwis ar gael ar gyfer y dyddiad yma. Dewisiwch 1, 2 neu 3 Ionawr i brofi.",
+        "quizCompleted": "Wedi cwblhau'r cwis!",
+        "yourScore": "Eich sgôr: ${correctAnswers} allan o ${totalQuestions}",
+        "selectDate": "Dewiswch ddyddiad:",
+        "nextQuestion": "Nesaf",
+        "correctAnswer": "Cywir!",
+        "incorrectAnswer": "Anghywir",
+        "explanation": "Esboniad:",
+        "seeScore": "Gweld eich sgôr"
+    }
+}

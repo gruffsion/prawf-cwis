@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>On This Day Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Language Switcher in the top-right corner -->
+    <div class="language-switcher">
+        <label for="language-select">Language:</label>
+        <select id="language-select">
+            <option value="en">English</option>
+            <option value="cy">Welsh</option>
+        </select>
+    </div>
+
+    <div class="quiz-container">
+        <h1 id="quiz-title">On This Day Quiz</h1>
+
+        <label for="date-select" id="select-date-label">Select Date:</label>
+        <input type="date" id="date-select">
+        
+        <div id="question-container">
+            <!-- Single question will load here dynamically -->
+        </div>
+
+        <div id="navigation-container">
+            <button id="next-question">Next</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
